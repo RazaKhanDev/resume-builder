@@ -48,22 +48,4 @@ npm run start
 ```
 5. Open http://localhost:3000 in your browser to see the application running
 
-### Built With
-- [React](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Chakra UI](https://chakra-ui.com/)
-- [React Router](https://reactrouter.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
-### Authors
-- [Hardik Desai](http://hardikdesai.tech/)
-
-### Contributions
-- We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
-
-### License
- - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-### Acknowledgments
-- We would like to thank our users for their support and feedback in making this website a success.
